@@ -4,7 +4,8 @@ Traffic policing system is a project done under the SMART INDAI HACKATHON (https
 # Project youtube link
 https://youtu.be/6sm9HWDmUig
 
-# Also refer to power point presentation befor strating with name cctv.pdf
+# Also refer to power point presentation befor strating ,with name cctv.pdf
+# Note!! This is only a prototype and not the full project the hardware interface and futher development is not included in this repository .
 
 Traffic policing system which will help to manipulate traffic signal with help of CCTV attached at junction and will also help to check which vehicles are violating traffic rules.This system can predict accident and protest can give alert to associated authority with details about scale of impact and location of that event.The vehicles can be categorised as car , truck , motorbike , train and emergency vehicles(Ambulance and Fire vehicle). The count of each category of vehicle will be counted and the side with max counted of vehicle will go green till minimum number of vehicles(like 2 or 3 vehicles ) or maximum time limit is reached this both paraments can be decided according to width and frequency of traffic of that area . The count will be based on priority like the truck will be given highest and the motorbike the lowest priority. 
 
