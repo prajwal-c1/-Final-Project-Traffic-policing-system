@@ -13,3 +13,12 @@ This system can be integrated in the existing system. We can also use Hikey a po
 Emergency vehicle can reach to desired location in less time and this can be life saver, so whenever a Emergency vehicle is detected in any lane then regardless of traffic it will give green signal to that lane. This system will detect accident and protest on junction or in any area where CCTV’s are present. When count of people is detected high and density is also high then it can be predicted as a protest or rallies. The user can be benefited in many ways like the waiting time at the signal can be reduced exponentially. 
 
 If protest are predicted then police can reach location in less time and the situation can be handled efficiently. Whenever a accident is detected an alert (system based alert call with location of via SMS) will be send to nearest hospital ambulance and associated authority .The location can be given with help of GPS at that location. The detection of holes and speed breakers can be done by recognition of satellite imaging.And the can be updated on google map which will help the traveller to drive safely.
+
+
+# How to run
+
+Download this repository and run real_time_counting.py file
+
+select RIO(region of interest) and press q to continue 
+
+Refer https://www.tensorflow.org/install/pip to install Tensorflow 
