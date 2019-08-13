@@ -21,4 +21,6 @@ Download this repository and run real_time_counting.py file
 
 select RIO(region of interest) and press q to continue 
 
+start1.py is sample file of jetson nano which can be run when there is interface with the hardware (jetson nona)
+
 Refer https://www.tensorflow.org/install/pip to install Tensorflow 
